@@ -1,5 +1,7 @@
 {
   "gaymini_api": "https://gaymini.up.railway.app",
-  "fxsai_api": "https://suu--fxsai.replit.app"
+  "fxsai_api": "https://suu--fxsai.replit.app",
+  "jwt_api":"https://fx-sifat-jwt-api.vercel.app",
+  "ffinfo_api":"https://fx-ffinfo.vercel.app"
 }
 
