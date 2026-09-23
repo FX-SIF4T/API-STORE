@@ -2,9 +2,10 @@
   "gaymini_api": "https://gaymini.up.railway.app",
   "fxsai_api": "https://suu--fxsai.replit.app",
   "jwt_api": "https://fx-sifat-jwt-api.vercel.app",
-  "ffinfo_api": "https://fx-ffinfo.vercel.app",
+  "ffinfo_api": "https://fxs-ffinfo.vercel.app",
   "music_api": "https://mcapi--sfxn.replit.app",
   "ffitem_api": "https://fx-items.onrender.com",
+  "img4k_api": "https://fxs-img-enhance.vercel.app",
   "downloader": "https://fxs-alldownloader.onrender.com"
 }
 
