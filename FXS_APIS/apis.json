@@ -5,7 +5,7 @@
   "ffinfo_api": "https://fxs-ffinfo.vercel.app",
   "music_api": "https://mcapi--sfxn.replit.app",
   "ffitem_api": "https://fx-items.onrender.com",
-  "img4k_api": "https://fxs-img-enhance.vercel.app",
+  "4k": "https://fxs-img-enhance.vercel.app",
   "downloader": "https://fxs-alldownloader.onrender.com"
 }
 
