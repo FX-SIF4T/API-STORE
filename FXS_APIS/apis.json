@@ -6,6 +6,7 @@
   "music_api": "https://mcapi--sfxn.replit.app",
   "ffitem_api": "https://fx-items.onrender.com",
   "4k": "https://fxs-img-enhance.vercel.app",
+  "aniimg": "https://aniimg-api.vercel.app",
   "downloader": "https://fxs-alldownloader.onrender.com"
 }
 
